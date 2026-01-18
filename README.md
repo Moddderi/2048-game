@@ -39,8 +39,26 @@ You can view the live demo here:
 
 ---
 
-## ▶️ How to Run the Project
+## ▶️ Getting Started
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/2048-game.git
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/your-username/project-name.git
+cd project-name
+```
+2. **Install dependencies:**
+
+```
+npm install
+# or
+yarn install
+```
+
+3. **Run the project locally:**
+
+```
+npm start
+# or
+yarn start
+```
